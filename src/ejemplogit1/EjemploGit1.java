@@ -18,7 +18,9 @@ public class EjemploGit1 {
         // TODO code application logic here
         // Agregando un cambio
         System.out.println("hola mundo git");
-        
+        System.out.println("hola mundo git");
+        System.out.println("hola mundo git");
+        System.out.println("hola mundo git");
     }
     
 }
